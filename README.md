@@ -38,4 +38,10 @@ jupyter notebook
 - Jupyter Notebook or Jupyter Lab
 
 ---
+### 📝 Project Info
+- **Main Author:** Siddhant Gavai
+- **Status:** Active Learning Repository
+- **Last Updated:** April 2026
+
+---
 *Created with ❤️ by Siddhant Gavai*
