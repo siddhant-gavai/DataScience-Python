@@ -1,0 +1,21 @@
+{
+  "name": "Siddhant Gavai",
+  "role": "Data Scientist",
+  "skills": ["Python", "Machine Learning", "Data Analysis", "SQL"],
+  "projects": [
+    {
+      "title": "MediConnect",
+      "description": "Healthcare appointment booking system",
+      "tech_stack": ["React", "Node.js", "PostgreSQL", "Prisma"]
+    },
+    {
+      "title": "DataScience-Python",
+      "description": "Comprehensive guide to Python for Data Science",
+      "tech_stack": ["Python", "Jupyter Notebooks"]
+    }
+  ],
+  "contact": {
+    "email": "siddhant@example.com",
+    "github": "siddhant-gavai"
+  }
+}

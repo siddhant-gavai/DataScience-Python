@@ -1,0 +1,3 @@
+Hello! This is a demo file created using Python.
+File handling is simple and powerful.
+Adding a new line to the existing file.
